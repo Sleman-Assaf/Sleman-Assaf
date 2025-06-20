@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sleman Assaf</h1>
-<h3 align="center">Full Stack Developer | AI & Data Science Enthusiast | Engineering Student</h3>
+<h3 align="center">Full Stack Developer | AI & Data Science</h3>
 
 ---
 
